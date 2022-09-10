@@ -1,5 +1,5 @@
 # -CAFE-C-Project-1st-Year-Final-Main
-##Cafeteria Management System which was built in C programming language in 2019 as my 1st year final project of my Software Engineering life.
+##Cafeteria Order Management System which was built in C programming language in 2019 as my 1st year final project of my Software Engineering life.
 
 #Thanks for the visit!
 
